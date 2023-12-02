@@ -1,0 +1,30 @@
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.exe
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.deps.json
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.runtimeconfig.json
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.dll
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.pdb
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.csproj.AssemblyReference.cache
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.AssemblyInfoInputs.cache
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.AssemblyInfo.cs
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.csproj.CoreCompileInputs.cache
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.dll
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\refint\ADSProject.dll
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.pdb
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.genruntimeconfig.cache
+C:\Users\KUTAY DURAN\source\repos\ADSProject\ADSProject\obj\Debug\net6.0\ref\ADSProject.dll
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.exe
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.deps.json
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.runtimeconfig.json
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.dll
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\bin\Debug\net6.0\ADSProject.pdb
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.csproj.AssemblyReference.cache
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.AssemblyInfoInputs.cache
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.AssemblyInfo.cs
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.csproj.CoreCompileInputs.cache
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.dll
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\refint\ADSProject.dll
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.pdb
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ADSProject.genruntimeconfig.cache
+C:\Users\KUTAY DURAN\Desktop\eski ders klasörleri\ADSProject\ADSProject\obj\Debug\net6.0\ref\ADSProject.dll
